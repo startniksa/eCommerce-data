@@ -7,7 +7,7 @@ https://colab.research.google.com/drive/1sNZJJeSGmn9OIc6WGhKwxXN873rSblGe?usp=sh
 
 This is a URL with a running application. The user needs to log in with a Google Account, then click on Runtime > Run All (Ctrl + F9).
 
-The Jupyer Notebook code contains a data pipeline that will ensure regular updates in data storage.
+The Jupyter Notebook code contains a data pipeline that will ensure regular updates in data storage.
 
 The code runs some reasonable aggregations.
 
